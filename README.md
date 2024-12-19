@@ -5,10 +5,10 @@ Utilizes Python libraries to accurately detect driver drowsiness in real-time th
 ---
 
 ## **📁 Folder Structure**
-├── Drowsy_Driver_Detection.py  # Main Python script
-├── Models
-         ├── Warning Alarm.wav         # Alarm sound file for drowsiness alert
-         └── shape_predictor_68_face_landmarks.dat  # Pre-trained model for facial landmark detection
+**Drowsy_Driver_Detection.py**  # Main Python script
+**Models**
+         ├── **Warning Alarm.wav**         # Alarm sound file for drowsiness alert
+         └── **shape_predictor_68_face_landmarks.dat**  # Pre-trained model for facial landmark detection
 ---
 ## **📋 Prerequisites**
 Make sure you have the following libraries installed before running the program.
